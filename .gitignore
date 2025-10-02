@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Production build output
+dist/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Misc
+*.local
+*.cache
+
+# Coverage reports
+coverage/
+
+# Optional: Ignore lockfiles at the root if you want to avoid heavy duplication
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb 
